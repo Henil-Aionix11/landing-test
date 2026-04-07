@@ -116,10 +116,10 @@ export default function Home() {
       <div className="bg-orb orb-three" />
 
       <header className={`site-header ${navOpen ? "nav-open" : ""}`}>
-        <a className="brand" href={appUrl} aria-label="Surgitutor">
-          <img className="brand-logo" src={logoUrl} alt="Surgitutor logo" />
+        <a className="brand" href={appUrl} aria-label="SurgiMentor">
+          <img className="brand-logo" src={logoUrl} alt="SurgiMentor logo" />
           <div>
-            <div className="brand-name">Surgitutor</div>
+            <div className="brand-name">SurgiMentor</div>
             <div className="brand-tag">AI surgical training platform</div>
           </div>
         </a>
@@ -158,10 +158,10 @@ export default function Home() {
             <div className="studio-top">
               <div className="studio-title-wrap">
                 <div className="studio-icon">
-                  <img src={logoUrl} alt="Surgitutor logo" />
+                  <img src={logoUrl} alt="SurgiMentor logo" />
                 </div>
                 <div>
-                  <strong>Surgitutor Session Studio</strong>
+                  <strong>SurgiMentor Session Studio</strong>
                   <span>Voice session in progress</span>
                 </div>
               </div>
@@ -217,7 +217,7 @@ export default function Home() {
                 <div className="feedback-hero">
                   <div className="feedback-score">
                     <span className="feedback-score-label">score</span>
-                    <strong>7.8</strong>
+                    <strong>8.7</strong>
                     <small>Tutor mode</small>
                   </div>
                   <div className="feedback-tags">
@@ -285,7 +285,7 @@ export default function Home() {
           </div>
 
           <p className="hero-subtitle">
-            Surgitutor is an AI-based application that helps residents rehearse decisions in a
+            SurgiMentor is an AI-based application that helps residents rehearse decisions in a
             live format with scenario-based sessions, real-time conversation flow, and structured
             feedback after completion.
           </p>
@@ -310,7 +310,7 @@ export default function Home() {
                 <span className="card-chip">Scenario Dashboard</span>
                 <h3>Choose topic, open case, begin AI-based practice.</h3>
                 <p>
-                  Surgitutor starts with topics and scenarios so learners can enter the right case
+                  SurgiMentor starts with topics and scenarios so learners can enter the right case
                   quickly and begin AI-based tutor-mode practice without extra friction.
                 </p>
                 <div className="mini-tags">
@@ -371,7 +371,7 @@ export default function Home() {
         <section className="support-section">
           <div className="section-heading section-heading-tight">
             <span className="section-kicker">Supported Scenarios</span>
-            <h2>Some of the scenarios currently supported in Surgitutor.</h2>
+            <h2>Some of the scenarios currently supported in SurgiMentor.</h2>
             <p>These are sample scenarios available now, with many more supported across the app.</p>
           </div>
 
@@ -417,7 +417,7 @@ export default function Home() {
           <div className="feedback-surface">
             <div className="score-panel">
               <span className="feedback-mini-label">Completed Session</span>
-              <div className="score-number">7.8</div>
+              <div className="score-number">8.7</div>
               <p className="score-caption">
                 Overall AI-based score from a completed tutor-mode scenario.
               </p>
@@ -459,7 +459,7 @@ export default function Home() {
         <section className="access-section" id="access">
           <div className="section-heading section-heading-tight">
             <span className="section-kicker">Access</span>
-            <h2>Two clear ways into Surgitutor.</h2>
+            <h2>Two clear ways into SurgiMentor.</h2>
             <p>
               Built for both individual learners and university programs using an AI-based
               platform.
@@ -484,9 +484,9 @@ export default function Home() {
           <div className="cta-surface contact-surface">
             <div className="contact-copy">
               <span className="section-kicker">Contact Us</span>
-              <h2>Get in touch with the Surgitutor team.</h2>
+              <h2>Get in touch with the SurgiMentor team.</h2>
               <p>
-                Reach the Surgitutor team for product access, training programs, or collaboration.
+                Reach the SurgiMentor team for product access, training programs, or collaboration.
               </p>
             </div>
 
@@ -501,7 +501,7 @@ export default function Home() {
                 <a
                   className="contact-icon-button"
                   href="mailto:Maazzuberi@surgitutor.com"
-                  aria-label="Email Surgitutor"
+                  aria-label="Email SurgiMentor"
                 >
                   <svg viewBox="0 0 24 24" aria-hidden="true">
                     <path d="M4 6.75h16A1.25 1.25 0 0 1 21.25 8v8A1.25 1.25 0 0 1 20 17.25H4A1.25 1.25 0 0 1 2.75 16V8A1.25 1.25 0 0 1 4 6.75Z" />

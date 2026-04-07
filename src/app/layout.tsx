@@ -13,7 +13,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Surgitutor | AI Surgical Training Platform",
+  title: "SurgiMentor | AI Surgical Training Platform",
   description:
     "Voice-based surgical reasoning practice for individual learners and university training programs.",
 };
