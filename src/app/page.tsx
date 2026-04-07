@@ -152,7 +152,7 @@ export default function Home() {
       <main>
         <section className="hero-section">
           <div className="hero-badge">Voice practice | live cases | measurable feedback</div>
-          <h1 className="hero-title">AI-Based Surgical Reasoning Practice.</h1>
+          <h1 className="hero-title">Train Surgical Judgment in Real-Time.</h1>
 
           <div className="studio-shell hero-studio">
             <div className="studio-top">
