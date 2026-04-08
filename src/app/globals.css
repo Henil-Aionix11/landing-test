@@ -347,6 +347,9 @@ main {
   justify-content: center;
   padding-top: 8px;
   text-align: center;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+  border-radius: 32px;
+  color: #f8fafc;
 }
 
 .hero-badge,
@@ -365,13 +368,17 @@ main {
   font-weight: 700;
 }
 
-.hero-badge,
 .section-kicker,
 .preview-kicker,
 .card-chip,
 .feedback-mini-label {
   background: rgba(74, 144, 164, 0.08);
   color: var(--primary-dark);
+}
+
+.hero-badge {
+  background: rgba(91, 163, 184, 0.20);
+  color: #5ba3b8;
 }
 
 .hero-title {
@@ -381,9 +388,17 @@ main {
   font-size: clamp(3rem, 6.5vw, 5.6rem);
   line-height: 0.95;
   letter-spacing: -0.05em;
+  color: #ffffff;
 }
 
-.hero-subtitle,
+.hero-subtitle {
+  max-width: 700px;
+  margin: 18px auto 0;
+  font-size: 0.98rem;
+  line-height: 1.7;
+  color: #cbd5e1;
+}
+
 .preview-card p,
 .section-heading p,
 .platform-card p,

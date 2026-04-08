@@ -151,8 +151,8 @@ export default function Home() {
 
       <main>
         <section className="hero-section">
-          <div className="hero-badge">Voice practice | live cases | measurable feedback</div>
-          <h1 className="hero-title">Train Surgical Judgment in Real-Time.</h1>
+          <div className="hero-badge">AI-Powered Master. Real-World Ready.</div>
+          <h1 className="hero-title">Master Surgical Skills with AI-Powered Training.</h1>
 
           <div className="studio-shell hero-studio">
             <div className="studio-top">
@@ -285,9 +285,8 @@ export default function Home() {
           </div>
 
           <p className="hero-subtitle">
-            SurgiMentor is an AI-based application that helps residents rehearse decisions in a
-            live format with scenario-based sessions, real-time conversation flow, and structured
-            feedback after completion.
+            Transform your surgical training with immersive AI simulations. Practice real-world scenarios,
+            receive instant feedback, and accelerate your journey to surgical mastery.
           </p>
 
           <div className="hero-actions">
